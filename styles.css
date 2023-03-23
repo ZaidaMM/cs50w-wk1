@@ -41,6 +41,7 @@ header {
   width: 272px;
   padding-bottom: 20px;
 }
+
 .search-input {
   position: relative;
   border-radius: 50px;
@@ -51,8 +52,8 @@ header {
 .search-input .fas.fa-search {
   position: absolute;
   top: 17px;
-  left: 15px;
-  font-size: 12px;
+  left: 17px;
+  font-size: 13px;
   color: #5f6368;
   background: transparent;
 }
@@ -83,6 +84,7 @@ header {
 }
 
 /* ADVANCED FORM */
+
 .title {
   color: #f28b82;
   font-size: larger;
